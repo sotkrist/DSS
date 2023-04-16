@@ -1,2 +1,2 @@
 # door security system
- An arduino controlled security system compatiable with doors.
+Security system on the doors. It can detect if someone entered the room with or without access, works with RFID accessation.
