@@ -1,2 +1,2 @@
 # door security system
-Security system on the doors. It can detect if someone entered the room with or without access, works with RFID accessation.
+A security system designed for doors. It can detect if someone entered the room with or without access, and works with RFID accessation.
